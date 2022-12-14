@@ -1,10 +1,6 @@
 # ========== 字符串的基本操作 ========== #
 
 # 字符串大小写转换函数
-from email import message
-from re import A
-
-
 infomessage="hello world"
 print(infomessage.title())
 print(infomessage.upper())
